@@ -1,0 +1,33 @@
+_repo: The-Third-Degree--A-Narrative-of-Metropolitan-Life_28505
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Klein, Charles
+    birthdate: 1867
+    deathdate: 1915
+    gutenberg_agent_id: '1703'
+    url: http://www.gutenberg.org/2009/agents/1703
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Klein
+  - agent_name: Hornblow, Arthur
+    birthdate: 1865
+    deathdate: 1942
+    gutenberg_agent_id: '6570'
+    url: http://www.gutenberg.org/2009/agents/6570
+description: ''
+gutenberg_issued: '2009-04-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28505'
+  lccn: 09029769
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'City and town life -- Fiction'
+title: 'The Third Degree: A Narrative of Metropolitan Life'
+url: http://www.gutenberg.org/ebooks/28505
